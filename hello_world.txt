@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Here is the first check-in.
+=======
+Here is the third check-in.
+>>>>>>> 6c1c856... third checkin
