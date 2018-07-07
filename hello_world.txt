@@ -1,1 +1,2 @@
-Here is the third check-in.
+Here is the fourth check-in.
+A new line from fourth check-in.
